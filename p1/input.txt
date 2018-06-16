@@ -1,0 +1,1005 @@
+new
+erase 36 0
+erase 82 0
+pop_back!
+erase 64 0
+back!
+erase 91 0
+front!
+push_back 19
+pop_front
+erase 34 0
+pop_front!
+pop_front!
+push_back 4
+erase 61 0
+count 94 0
+empty 0
+erase 85 0
+erase 48 0
+erase 23 0
+count 35 0
+erase 100 0
+front 4
+empty 0
+push_front 55
+front 55
+erase 27 0
+erase 35 0
+pop_back
+erase 22 0
+erase 78 0
+erase 62 0
+front 55
+back 55
+pop_front
+push_back 57
+front 57
+pop_front
+pop_front!
+erase 15 0
+front!
+pop_front!
+front!
+pop_back!
+size 0
+empty 1
+size 0
+front!
+erase 47 0
+back!
+push_back 88
+size 1
+erase 81 0
+pop_back
+push_back 69
+erase 95 0
+empty 0
+back 69
+erase 70 0
+erase 16 0
+size 1
+push_back 58
+back 58
+count 37 0
+size 2
+push_back 64
+push_front 4
+erase 51 0
+erase 60 0
+count 60 0
+size 4
+erase 42 0
+push_front 30
+empty 0
+erase 61 0
+pop_front
+erase 99 0
+push_back 72
+erase 89 0
+back 72
+back 72
+pop_back
+size 4
+erase 14 0
+back 64
+pop_front
+erase 68 0
+erase 8 0
+count 90 0
+empty 0
+count 23 0
+push_back 70
+erase 2 0
+count 2 0
+push_back 31
+erase 95 0
+back 31
+erase 8 0
+push_back 14
+erase 63 0
+erase 56 0
+back 14
+pop_back
+empty 0
+erase 50 0
+erase 53 0
+pop_back
+size 4
+erase 22 0
+erase 65 0
+push_back 16
+push_back 97
+erase 14 0
+empty 0
+erase 50 0
+size 6
+empty 0
+erase 27 0
+back 97
+pop_back
+push_back 77
+erase 62 0
+push_front 60
+empty 0
+empty 0
+size 7
+erase 97 0
+back 77
+size 7
+size 7
+empty 0
+pop_front
+push_back 87
+erase 45 0
+back 87
+front 69
+erase 16 1
+count 88 0
+front 69
+erase 73 0
+empty 0
+erase 72 0
+push_back 71
+pop_back
+erase 12 0
+pop_front
+push_front 44
+size 6
+size 6
+size 6
+pop_back
+back 77
+push_front 44
+empty 0
+erase 46 0
+erase 79 0
+front 44
+erase 55 0
+back 77
+size 6
+back 77
+back 77
+push_front 3
+count 29 0
+front 3
+pop_front
+pop_front
+pop_front
+front 58
+erase 69 0
+pop_front
+push_front 38
+erase 55 0
+pop_back
+pop_front
+back 70
+push_front 53
+size 3
+front 53
+pop_back
+back 64
+empty 0
+erase 37 0
+back 64
+empty 0
+erase 49 0
+erase 41 0
+back 64
+count 56 0
+push_front 51
+size 3
+erase 14 0
+erase 6 0
+erase 62 0
+erase 50 0
+pop_back
+erase 83 0
+push_back 92
+empty 0
+size 3
+count 28 0
+erase 41 0
+pop_front
+size 2
+erase 74 0
+empty 0
+erase 84 0
+erase 52 0
+erase 16 0
+back 92
+erase 93 0
+pop_back
+erase 36 0
+push_front 83
+front 83
+erase 88 0
+size 2
+erase 67 0
+push_front 46
+front 46
+erase 17 0
+pop_front
+push_back 83
+erase 89 0
+pop_back
+erase 89 0
+size 2
+push_back 36
+size 3
+empty 0
+front 83
+erase 97 0
+erase 28 0
+size 3
+push_front 53
+count 24 0
+erase 53 2
+push_back 60
+front 83
+front 83
+erase 66 0
+push_back 66
+erase 16 0
+push_front 67
+erase 25 0
+size 5
+erase 83 1
+erase 51 0
+back 66
+count 19 0
+push_back 12
+front 67
+erase 59 0
+push_front 31
+size 6
+pop_front
+size 5
+empty 0
+erase 46 0
+erase 97 0
+push_back 24
+erase 58 0
+erase 44 0
+push_back 32
+erase 92 0
+front 67
+pop_front
+erase 67 0
+erase 4 0
+empty 0
+erase 94 0
+erase 54 0
+push_front 97
+empty 0
+erase 66 1
+erase 42 0
+front 97
+size 6
+erase 74 0
+pop_back
+erase 29 0
+front 97
+front 97
+front 97
+erase 52 0
+count 58 0
+erase 39 0
+pop_back
+erase 30 0
+erase 37 0
+size 4
+empty 0
+empty 0
+count 38 0
+pop_front
+size 3
+erase 66 0
+erase 26 0
+erase 41 0
+front 36
+erase 48 0
+erase 70 0
+erase 25 0
+size 3
+pop_back
+erase 100 0
+pop_back
+erase 23 0
+erase 9 0
+pop_back
+pop_front!
+erase 69 0
+count 8 0
+push_back 45
+count 31 0
+size 1
+pop_front
+push_front 44
+count 88 0
+pop_front
+push_back 35
+erase 69 0
+erase 32 0
+back 35
+erase 64 0
+erase 52 0
+count 23 0
+empty 0
+empty 0
+empty 0
+erase 60 0
+count 5 0
+push_front 64
+empty 0
+erase 9 0
+front 64
+empty 0
+empty 0
+empty 0
+erase 3 0
+push_front 83
+push_front 30
+size 4
+pop_back
+size 3
+push_back 92
+empty 0
+erase 59 0
+erase 96 0
+front 30
+erase 40 0
+erase 36 0
+empty 0
+back 92
+push_back 37
+size 5
+erase 88 0
+push_back 19
+erase 85 0
+erase 57 0
+empty 0
+erase 81 0
+front 30
+back 19
+back 19
+front 30
+erase 76 0
+erase 68 0
+front 30
+back 19
+erase 80 0
+count 7 0
+push_back 7
+erase 36 0
+erase 17 0
+push_back 59
+front 30
+pop_back
+erase 90 0
+erase 45 0
+pop_front
+pop_front
+empty 0
+erase 12 0
+size 5
+front 64
+size 5
+erase 48 0
+count 78 0
+push_front 8
+pop_back
+erase 48 0
+front 8
+erase 99 0
+erase 52 0
+push_back 58
+push_front 39
+pop_front
+push_back 52
+size 7
+erase 72 0
+push_front 39
+erase 93 0
+front 39
+front 39
+back 52
+front 39
+push_back 17
+erase 85 0
+back 17
+push_back 41
+size 10
+empty 0
+pop_front
+erase 63 0
+push_front 31
+erase 25 0
+erase 94 0
+pop_back
+push_back 9
+front 31
+size 10
+erase 13 0
+count 21 0
+erase 63 0
+pop_back
+count 25 0
+count 5 0
+back 17
+count 10 0
+pop_front
+push_back 40
+push_back 3
+erase 4 0
+erase 12 0
+pop_front
+erase 51 0
+pop_front
+size 8
+back 3
+front 92
+front 92
+erase 35 0
+pop_back
+empty 0
+erase 56 0
+count 4 0
+erase 62 0
+back 40
+erase 29 0
+erase 7 0
+push_front 29
+pop_front
+push_front 85
+erase 6 0
+pop_back
+count 25 0
+erase 24 0
+push_front 23
+count 67 0
+empty 0
+pop_back
+size 7
+pop_front
+erase 14 0
+erase 46 0
+pop_back
+erase 45 0
+erase 89 0
+erase 28 0
+size 5
+front 85
+push_back 63
+erase 79 0
+pop_front
+pop_back
+pop_front
+count 52 0
+pop_back
+count 77 0
+back 19
+erase 28 0
+erase 54 0
+size 2
+push_back 29
+front 37
+back 29
+size 3
+empty 0
+push_front 6
+empty 0
+erase 21 0
+pop_back
+pop_front
+erase 73 0
+erase 75 0
+pop_front
+erase 97 0
+push_back 79
+erase 59 0
+size 2
+push_front 21
+pop_back
+count 71 0
+push_front 15
+pop_back
+erase 87 0
+erase 52 0
+size 2
+back 21
+front 15
+erase 40 0
+erase 27 0
+size 2
+erase 78 0
+erase 64 0
+erase 86 0
+pop_back
+back 15
+erase 81 0
+count 49 0
+erase 91 0
+erase 40 0
+count 75 0
+pop_front
+pop_front!
+count 13 0
+erase 78 0
+count 85 0
+erase 17 0
+pop_front!
+size 0
+empty 1
+erase 72 0
+pop_back!
+count 44 0
+back!
+erase 18 0
+empty 1
+erase 98 0
+erase 23 0
+erase 14 0
+back!
+size 0
+back!
+pop_back!
+size 0
+erase 52 0
+pop_back!
+push_back 24
+erase 12 0
+front 24
+erase 11 0
+push_front 55
+push_front 66
+empty 0
+erase 56 0
+erase 65 0
+pop_back
+push_back 30
+erase 70 0
+erase 77 0
+push_front 47
+erase 96 0
+count 99 0
+count 67 0
+erase 99 0
+erase 46 0
+back 30
+erase 91 0
+erase 91 0
+front 47
+pop_front
+erase 3 0
+empty 0
+back 30
+count 29 0
+pop_front
+erase 50 0
+pop_back
+pop_front
+erase 54 0
+front!
+erase 77 0
+erase 67 0
+erase 3 0
+front!
+erase 48 0
+erase 70 0
+count 77 0
+erase 59 0
+erase 26 0
+push_back 62
+erase 38 0
+pop_back
+front!
+erase 85 0
+size 0
+erase 38 0
+front!
+count 60 0
+size 0
+erase 29 0
+back!
+size 0
+push_back 9
+back 9
+pop_back
+pop_front!
+count 15 0
+erase 68 0
+front!
+front!
+size 0
+size 0
+size 0
+erase 76 0
+size 0
+erase 97 0
+push_front 14
+erase 34 0
+erase 75 0
+erase 24 0
+size 1
+front 14
+pop_back
+erase 25 0
+pop_front!
+push_back 44
+erase 51 0
+push_front 91
+erase 43 0
+back 44
+back 44
+pop_back
+push_back 27
+size 2
+front 91
+count 56 0
+erase 10 0
+back 27
+erase 12 0
+erase 54 0
+empty 0
+erase 90 0
+erase 55 0
+back 27
+front 91
+push_front 73
+push_back 71
+erase 79 0
+size 4
+pop_back
+push_front 79
+push_back 26
+erase 37 0
+push_back 90
+erase 95 0
+erase 91 1
+push_back 17
+empty 0
+erase 67 0
+empty 0
+erase 93 0
+size 6
+count 20 0
+count 82 0
+back 17
+erase 6 0
+push_front 52
+empty 0
+push_front 87
+push_back 60
+erase 49 0
+erase 12 0
+erase 9 0
+front 87
+empty 0
+erase 79 1
+erase 91 0
+size 8
+size 8
+erase 73 1
+count 78 0
+push_front 59
+pop_front
+size 7
+erase 23 0
+size 7
+front 87
+push_front 77
+size 8
+erase 50 0
+pop_back
+erase 72 0
+front 77
+pop_back
+back 90
+empty 0
+push_front 96
+empty 0
+erase 93 0
+front 96
+back 90
+erase 46 0
+erase 47 0
+front 96
+push_front 12
+empty 0
+pop_back
+erase 5 0
+pop_back
+back 27
+count 55 0
+erase 84 0
+erase 93 0
+erase 91 0
+erase 39 0
+erase 5 0
+push_front 4
+count 29 0
+back 27
+erase 39 0
+push_front 36
+pop_front
+count 47 0
+pop_front
+count 5 0
+size 6
+count 45 0
+erase 1 0
+push_back 54
+pop_back
+erase 7 0
+erase 20 0
+push_back 21
+erase 5 0
+erase 59 0
+erase 10 0
+erase 37 0
+back 21
+empty 0
+pop_front
+empty 0
+erase 1 0
+push_back 88
+push_front 11
+pop_front
+push_front 71
+erase 21 1
+back 88
+pop_back
+push_front 27
+count 72 0
+erase 96 1
+erase 39 0
+erase 20 0
+push_front 77
+erase 91 0
+back 27
+push_back 68
+front 77
+push_back 48
+pop_front
+pop_back
+erase 39 0
+push_front 9
+pop_back
+erase 59 0
+pop_back
+push_back 24
+pop_back
+pop_back
+pop_back
+pop_front
+back 77
+erase 79 0
+count 43 0
+front 27
+erase 88 0
+erase 59 0
+pop_front
+front 71
+erase 42 0
+push_back 92
+back 92
+empty 0
+erase 59 0
+erase 30 0
+pop_front
+push_front 13
+size 3
+pop_back
+erase 8 0
+empty 0
+pop_front
+back 77
+pop_front
+erase 28 0
+back!
+push_front 88
+erase 53 0
+empty 0
+count 22 0
+erase 33 0
+erase 1 0
+pop_front
+push_front 76
+front 76
+erase 15 0
+count 13 0
+erase 69 0
+push_back 100
+erase 30 0
+back 100
+erase 43 0
+count 80 0
+erase 80 0
+back 100
+pop_front
+erase 87 0
+front 100
+size 1
+pop_front
+erase 91 0
+erase 29 0
+count 62 0
+erase 58 0
+erase 92 0
+size 0
+erase 56 0
+erase 83 0
+erase 98 0
+back!
+size 0
+erase 49 0
+push_front 81
+push_back 46
+push_front 62
+erase 46 1
+front 62
+erase 8 0
+push_front 61
+erase 65 0
+push_front 94
+pop_front
+back 81
+erase 10 0
+erase 39 0
+pop_back
+empty 0
+front 61
+pop_back
+count 80 0
+back 61
+empty 0
+erase 90 0
+push_front 61
+erase 8 0
+front 61
+empty 0
+erase 60 0
+size 2
+erase 11 0
+size 2
+erase 73 0
+empty 0
+pop_back
+erase 16 0
+pop_back
+size 0
+front!
+empty 1
+front!
+push_front 74
+erase 84 0
+count 83 0
+front 74
+erase 62 0
+pop_front
+size 0
+pop_back!
+count 87 0
+erase 83 0
+erase 67 0
+erase 35 0
+back!
+erase 79 0
+back!
+erase 22 0
+erase 71 0
+push_back 65
+erase 43 0
+size 1
+size 1
+back 65
+pop_front
+erase 87 0
+erase 96 0
+size 0
+empty 1
+erase 33 0
+push_front 68
+erase 37 0
+pop_front
+back!
+back!
+front!
+erase 99 0
+erase 90 0
+back!
+size 0
+erase 95 0
+push_back 38
+push_back 97
+erase 95 0
+erase 51 0
+count 26 0
+push_front 38
+size 3
+erase 5 0
+push_front 90
+size 4
+erase 38 2
+count 78 0
+erase 35 0
+erase 95 0
+push_back 35
+erase 97 1
+push_front 92
+erase 65 0
+push_back 35
+front 92
+pop_front
+erase 31 0
+count 95 0
+pop_back
+erase 44 0
+count 13 0
+erase 79 0
+erase 61 0
+erase 98 0
+erase 97 0
+erase 29 0
+erase 25 0
+back 35
+push_front 76
+erase 68 0
+size 3
+count 64 0
+erase 71 0
+erase 13 0
+erase 39 0
+empty 0
+erase 8 0
+pop_back
+front 76
+pop_front
+erase 8 0
+erase 34 0
+erase 26 0
+erase 33 0
+erase 98 0
+back 90
+erase 66 0
+erase 54 0
+count 66 0
+erase 9 0
+back 90
+erase 24 0
+erase 69 0
+back 90
+erase 41 0
+erase 32 0
+push_back 67
+pop_back
+empty 0
+erase 60 0
+erase 35 0
+erase 23 0
+pop_front
+push_back 62
+push_front 88
+erase 6 0
+pop_back
+empty 0
+size 1
+erase 56 0
+push_back 85
+erase 63 0
+push_front 2
+front 2
+back 85
+size 3
+front 2
+size 3
+erase 55 0
+back 85
+count 62 0
+erase 60 0
+erase 42 0
+delete
+summary
+details
+exit

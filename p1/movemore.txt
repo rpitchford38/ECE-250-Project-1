@@ -1,0 +1,2077 @@
+new
+count 0 0
+end
+next0
+next0
+next0
+exit
+push_back 1
+rbegin
+next
+next0
+previous
+previous
+previous0
+next
+value 1
+previous
+next
+previous
+next
+previous
+exit
+find 1
+next
+exit
+size 1
+erase 0 0
+push_back 1
+// move
+push_back 0
+push_back 0
+pop_back
+assign
+count 0 1
+pop_back
+erase 1 2
+end
+exit
+size 0
+empty 1
+delete
+exit
+end
+next0
+previous
+previous
+previous
+next
+value 1
+exit
+count 1 2
+rend
+next
+next
+next
+next
+previous
+next
+exit
+find 1
+value 1
+value 1
+next
+exit
+begin
+value 1
+next
+value 1
+exit
+delete
+summary
+//exit
+push_back 1
+pop_front
+push_front 1
+front 1
+find 1
+previous
+next
+previous
+previous0
+next
+next
+exit
+count 0 0
+begin
+next
+previous
+next
+next
+next
+previous
+previous
+exit
+pop_back
+push_back 0
+count 1 2
+rbegin
+value 0
+value 0
+value 0
+next
+next0
+next0
+exit
+empty 0
+find 1
+previous
+next
+exit
+size 3
+end
+exit
+end
+previous
+exit
+begin
+exit
+front 1
+find 0
+next
+next0
+previous
+previous
+exit
+erase 1 2
+pop_back
+push_front 1
+begin
+next
+next0
+previous
+next
+next0
+previous
+previous
+previous0
+next
+value 1
+previous
+previous0
+previous0
+exit
+end
+exit
+back 1
+size 1
+begin
+exit
+begin
+next
+previous
+next
+previous
+exit
+begin
+exit
+push_front 0
+rend
+next
+value 0
+previous
+next
+next
+value 1
+value 1
+next
+previous
+value 1
+previous
+value 0
+value 0
+exit
+begin
+exit
+// move
+delete
+exit
+erase 0 1
+rend
+next
+previous
+exit
+begin
+next
+previous
+value 1
+value 1
+value 1
+value 1
+value 1
+next
+exit
+rbegin
+value 1
+previous
+next
+value 1
+previous
+next
+next
+exit
+pop_front
+front!
+size 0
+empty 1
+size 0
+end
+previous
+exit
+delete
+exit
+empty 1
+pop_front!
+pop_front!
+begin
+next0
+next0
+exit
+pop_front!
+erase 1 0
+rbegin
+exit
+count 1 0
+pop_back!
+end
+previous
+previous0
+exit
+begin
+previous
+next
+previous
+exit
+front!
+push_back 1
+push_front 0
+rbegin
+next
+next0
+exit
+rend
+exit
+pop_back
+count 1 0
+end
+previous
+previous
+next
+next
+previous
+value 0
+previous
+next
+next
+previous
+exit
+count 0 1
+erase 0 1
+erase 0 0
+begin
+next0
+next0
+previous
+exit
+front!
+erase 0 0
+empty 1
+empty 1
+back!
+erase 0 0
+empty 1
+rend
+exit
+pop_back!
+// move
+front!
+assign
+back!
+push_front 0
+size 1
+delete
+exit
+size 0
+count 1 0
+size 0
+delete
+exit
+end
+exit
+begin
+previous
+next
+previous
+next
+previous
+next
+next0
+next0
+exit
+back!
+count 1 0
+rbegin
+exit
+rbegin
+next
+exit
+rbegin
+exit
+rbegin
+next
+previous
+next
+next0
+previous
+exit
+rbegin
+exit
+rend
+previous0
+next
+next0
+previous
+next
+next0
+previous
+previous0
+exit
+// move
+begin
+previous
+exit
+erase 0 0
+rend
+next
+previous
+exit
+count 1 0
+pop_back!
+size 0
+assign
+count 1 0
+rbegin
+exit
+begin
+previous
+next
+previous
+next
+next0
+previous
+next
+previous
+next
+previous
+next
+exit
+rbegin
+next
+previous
+exit
+size 0
+push_front 1
+begin
+value 1
+value 1
+value 1
+exit
+rend
+exit
+begin
+value 1
+value 1
+value 1
+exit
+delete
+exit
+delete
+exit
+end
+next0
+exit
+rbegin
+next
+next0
+next0
+previous
+exit
+push_front 0
+empty 0
+erase 0 1
+begin
+previous
+previous0
+previous0
+next
+next0
+previous
+previous0
+exit
+empty 1
+pop_back!
+push_front 1
+push_back 1
+find 1
+previous
+next
+value 1
+previous
+exit
+back 1
+end
+exit
+// move
+empty 0
+push_back 1
+size 3
+begin
+previous
+next
+exit
+rbegin
+previous
+exit
+begin
+previous
+next
+exit
+delete
+exit
+front 1
+push_back 1
+empty 0
+assign
+back 1
+empty 0
+end
+next0
+previous
+next
+exit
+count 0 0
+back 1
+rbegin
+next
+previous
+value 1
+exit
+pop_back
+count 0 0
+rend
+next
+value 1
+value 1
+next
+previous
+exit
+back 1
+back 1
+delete
+exit
+count 1 3
+back 1
+erase 0 0
+pop_front
+front 1
+push_front 0
+begin
+value 0
+value 0
+exit
+assign
+delete
+exit
+pop_back
+erase 1 1
+back 0
+end
+next0
+next0
+next0
+next0
+previous
+exit
+back 0
+erase 0 1
+size 0
+rend
+next
+next0
+exit
+begin
+previous
+previous0
+next
+next0
+previous
+previous0
+previous0
+exit
+rbegin
+next
+previous
+next
+previous
+exit
+empty 1
+assign
+delete
+exit
+rend
+previous0
+exit
+push_front 1
+rend
+exit
+begin
+next
+previous
+next
+exit
+count 1 1
+count 1 1
+rbegin
+next
+next0
+previous
+previous
+next
+next
+previous
+next
+previous
+value 1
+previous
+next
+exit
+pop_front
+back!
+push_front 1
+rend
+next
+previous
+exit
+size 1
+push_front 1
+back 1
+rend
+next
+previous
+next
+previous
+previous0
+exit
+// move
+size 2
+erase 0 0
+front 1
+count 1 2
+end
+exit
+delete
+exit
+size 2
+rbegin
+previous
+exit
+end
+next0
+previous
+exit
+pop_front
+// move
+back 1
+pop_front
+rend
+next
+previous
+previous0
+exit
+push_front 1
+pop_front
+delete
+exit
+// move
+count 0 0
+delete
+exit
+rend
+next
+exit
+// move
+size 1
+push_back 0
+delete
+exit
+push_front 0
+end
+exit
+push_front 0
+pop_front
+find 1
+value 1
+next
+previous
+exit
+// move
+back 1
+push_front 1
+find 1
+previous
+next
+value 1
+next
+next
+next
+exit
+empty 0
+delete
+exit
+rbegin
+exit
+count 0 1
+front 0
+count 1 1
+rbegin
+value 1
+previous
+previous
+next
+previous
+exit
+find 1
+exit
+front 0
+end
+previous
+value 1
+exit
+size 2
+pop_back
+rbegin
+next
+previous
+exit
+push_front 0
+back 0
+rend
+next
+value 0
+next
+previous
+next
+exit
+pop_front
+find 0
+next
+previous
+previous
+next
+next
+exit
+rbegin
+previous
+exit
+begin
+exit
+rbegin
+value 0
+next
+previous
+previous
+next
+previous
+next
+next
+previous
+next
+previous
+next
+next0
+previous
+value 0
+next
+exit
+find 0
+exit
+begin
+exit
+push_back 0
+begin
+exit
+rend
+next
+exit
+count 1 0
+empty 0
+push_back 1
+rend
+exit
+pop_front
+pop_front
+back 1
+rend
+previous0
+exit
+rend
+next
+previous
+next
+value 1
+next
+previous
+value 1
+previous
+exit
+erase 0 0
+begin
+previous
+previous0
+next
+next
+previous
+exit
+find 1
+previous
+next
+value 1
+next
+previous
+next
+next0
+previous
+value 1
+previous
+next
+exit
+front 1
+size 1
+front 1
+begin
+previous
+exit
+front 1
+pop_back
+back!
+assign
+rbegin
+previous0
+exit
+push_front 1
+rend
+previous0
+previous0
+exit
+push_front 0
+begin
+value 0
+next
+exit
+assign
+end
+next0
+next0
+exit
+find 0
+previous
+next
+next
+exit
+rbegin
+next
+previous
+exit
+push_front 0
+delete
+exit
+end
+next0
+next0
+next0
+previous
+previous
+exit
+back 1
+pop_front
+delete
+exit
+empty 1
+empty 1
+// move
+delete
+exit
+pop_front!
+rbegin
+next
+next0
+previous
+next
+previous
+exit
+push_front 1
+rbegin
+next
+next0
+previous
+next
+exit
+end
+previous
+next
+next0
+previous
+value 1
+previous
+next
+next
+previous
+previous
+next
+previous
+exit
+back 1
+end
+exit
+size 1
+rbegin
+value 1
+exit
+pop_front
+rbegin
+exit
+push_front 0
+pop_front
+pop_front!
+empty 1
+push_back 0
+assign
+erase 0 1
+delete
+exit
+count 1 0
+push_front 0
+end
+previous
+exit
+count 0 2
+pop_front
+back 0
+rend
+exit
+find 0
+exit
+rend
+next
+exit
+end
+next0
+previous
+value 0
+value 0
+next
+exit
+front 0
+assign
+push_back 1
+count 1 1
+pop_front
+count 0 0
+rbegin
+next
+previous
+exit
+empty 0
+size 1
+push_back 0
+erase 0 1
+push_back 1
+rbegin
+previous
+next
+next
+next0
+previous
+previous
+previous
+next
+exit
+pop_front
+push_front 0
+delete
+exit
+push_front 1
+back 0
+pop_back
+pop_back
+push_front 1
+front 1
+erase 1 1
+pop_front!
+count 0 0
+// move
+rend
+exit
+end
+next0
+previous
+next
+exit
+back!
+front!
+delete
+exit
+push_back 1
+erase 1 1
+pop_back!
+push_front 1
+end
+next0
+next0
+previous
+next
+next0
+next0
+next0
+previous
+exit
+begin
+exit
+empty 0
+push_front 0
+rend
+next
+value 0
+previous
+previous0
+previous0
+previous0
+next
+exit
+rbegin
+next
+next0
+previous
+value 1
+value 1
+value 1
+next
+previous
+previous
+previous
+next
+previous
+next
+next
+next
+previous
+exit
+rend
+exit
+rend
+next
+previous
+next
+previous
+exit
+pop_back
+back 0
+rbegin
+next
+next0
+exit
+back 0
+size 1
+size 1
+begin
+next
+exit
+begin
+previous
+exit
+count 0 1
+assign
+front 0
+rend
+next
+value 0
+next
+previous
+exit
+delete
+exit
+push_back 0
+pop_front
+pop_back
+push_back 1
+push_front 1
+// move
+erase 0 0
+delete
+exit
+begin
+exit
+push_back 0
+assign
+delete
+exit
+pop_back
+pop_front
+pop_back
+pop_front!
+end
+previous
+exit
+// move
+count 1 0
+push_back 0
+pop_back
+push_front 1
+back 1
+count 0 0
+find 1
+exit
+delete
+exit
+front!
+pop_back!
+begin
+previous
+exit
+begin
+previous
+exit
+empty 1
+size 0
+rbegin
+previous0
+next
+next0
+previous
+next
+previous
+next
+previous
+next
+previous
+exit
+begin
+next0
+exit
+rend
+previous0
+next
+previous
+previous0
+exit
+push_front 1
+back 1
+push_front 0
+pop_front
+// move
+empty 0
+empty 0
+delete
+exit
+front 1
+size 1
+begin
+next
+next0
+next0
+previous
+exit
+pop_front
+rbegin
+exit
+front!
+erase 0 0
+count 0 0
+pop_front!
+pop_back!
+erase 1 0
+begin
+next0
+previous
+exit
+erase 0 0
+front!
+pop_front!
+pop_back!
+push_front 0
+front 0
+// move
+delete
+exit
+push_front 1
+size 2
+push_back 0
+back 0
+end
+next0
+previous
+next
+next0
+previous
+value 0
+value 0
+next
+previous
+exit
+pop_back
+begin
+previous
+next
+value 1
+value 1
+previous
+previous0
+exit
+empty 0
+erase 0 1
+empty 0
+size 1
+rbegin
+next
+previous
+previous
+previous0
+next
+next
+next0
+exit
+front 1
+pop_back
+count 0 0
+begin
+exit
+pop_back!
+push_back 0
+rend
+next
+value 0
+exit
+front 0
+push_front 0
+end
+exit
+pop_front
+front 0
+erase 1 0
+back 0
+back 0
+back 0
+push_back 0
+pop_front
+end
+next0
+previous
+next
+next0
+previous
+next
+previous
+next
+exit
+rbegin
+previous
+next
+exit
+begin
+previous
+next
+next
+exit
+begin
+next
+exit
+erase 0 1
+begin
+next0
+previous
+previous0
+previous0
+previous0
+previous0
+next
+previous
+exit
+push_back 0
+count 1 0
+push_front 1
+pop_front
+end
+exit
+count 1 0
+rbegin
+next
+next0
+previous
+next
+exit
+begin
+exit
+// move
+find 0
+value 0
+next
+next0
+next0
+exit
+pop_front
+begin
+next0
+next0
+previous
+previous0
+next
+previous
+next
+previous
+previous0
+next
+next0
+next0
+next0
+previous
+exit
+push_back 0
+front 0
+begin
+next
+exit
+delete
+exit
+push_front 1
+end
+previous
+previous
+exit
+end
+previous
+next
+previous
+exit
+rend
+exit
+find 0
+next
+exit
+back 0
+rbegin
+exit
+find 0
+previous
+value 1
+previous
+previous0
+next
+value 1
+value 1
+exit
+rend
+exit
+front 1
+// move
+empty 0
+empty 0
+delete
+exit
+erase 1 1
+pop_front
+rbegin
+next
+next0
+previous
+next
+previous
+exit
+rbegin
+next
+previous
+previous0
+next
+exit
+empty 1
+pop_back!
+size 0
+front!
+rend
+exit
+begin
+exit
+back!
+end
+previous
+next
+exit
+count 0 0
+rend
+exit
+back!
+count 1 0
+push_back 0
+push_back 0
+erase 0 2
+rend
+next
+previous
+next
+exit
+begin
+exit
+pop_back!
+back!
+erase 1 0
+pop_back!
+front!
+pop_front!
+size 0
+begin
+exit
+// move
+end
+exit
+pop_back!
+empty 1
+size 0
+end
+exit
+empty 1
+begin
+exit
+delete
+exit
+begin
+exit
+push_back 1
+back 1
+rbegin
+previous
+exit
+rbegin
+next
+previous
+next
+previous
+next
+previous
+previous
+exit
+front 1
+rbegin
+previous
+exit
+back 1
+// move
+push_back 0
+back 0
+delete
+exit
+pop_back
+pop_front!
+begin
+next0
+next0
+exit
+end
+next0
+exit
+pop_front!
+push_back 0
+front 0
+back 0
+push_back 1
+// move
+push_front 1
+delete
+exit
+begin
+exit
+// move
+size 2
+empty 0
+pop_back
+back 0
+push_back 0
+assign
+end
+exit
+push_front 1
+pop_back
+end
+previous
+next
+previous
+exit
+empty 0
+end
+exit
+empty 0
+front 1
+push_front 0
+find 0
+value 0
+next
+next
+next
+next0
+previous
+exit
+size 3
+front 0
+pop_back
+back 1
+delete
+exit
+rend
+next
+exit
+rend
+next
+exit
+empty 0
+empty 0
+begin
+exit
+delete
+exit
+rbegin
+previous
+previous
+next
+previous
+next
+previous
+next
+exit
+assign
+delete
+exit
+// move
+erase 1 1
+end
+previous
+exit
+assign
+delete
+exit
+rbegin
+exit
+count 1 0
+begin
+next
+previous
+next
+exit
+erase 1 0
+end
+previous
+exit
+delete
+exit
+count 1 1
+erase 1 1
+size 1
+pop_front
+push_back 0
+back 0
+find 0
+next
+previous
+next
+previous
+exit
+size 1
+back 0
+pop_front
+rend
+exit
+pop_front!
+pop_back!
+begin
+previous
+next
+previous
+previous0
+next
+previous
+exit
+assign
+assign
+back!
+pop_back!
+pop_front!
+delete
+exit
+begin
+next0
+previous
+exit
+begin
+previous
+exit
+delete
+exit
+empty 1
+push_front 0
+empty 0
+push_back 1
+pop_back
+push_front 0
+assign
+front 0
+pop_front
+pop_front
+delete
+exit
+erase 0 2
+begin
+next0
+previous
+exit
+erase 0 0
+end
+exit
+begin
+previous
+previous0
+previous0
+next
+previous
+exit
+front!
+begin
+next0
+exit
+rbegin
+previous0
+next
+next0
+next0
+previous
+previous0
+previous0
+previous0
+next
+next0
+previous
+next
+previous
+next
+exit
+assign
+rend
+exit
+delete
+exit
+push_front 0
+count 0 1
+count 1 0
+push_back 1
+back 1
+erase 0 1
+erase 0 0
+// move
+find 1
+exit
+begin
+previous
+exit
+end
+previous
+next
+next0
+next0
+previous
+previous
+next
+previous
+previous0
+next
+value 1
+previous
+next
+previous
+next
+previous
+exit
+empty 0
+delete
+exit
+empty 0
+front 1
+// move
+rend
+next
+previous
+previous0
+previous0
+next
+exit
+delete
+exit
+front 1
+push_back 1
+rend
+previous0
+exit
+assign
+delete
+exit
+back 1
+assign
+delete
+exit
+rbegin
+value 1
+next
+previous
+value 1
+exit
+front 1
+erase 1 2
+empty 1
+assign
+delete
+exit
+begin
+next0
+next0
+previous
+next
+previous
+next
+previous
+previous0
+exit
+size 0
+// move
+front!
+assign
+delete
+exit
+rbegin
+next
+previous
+next
+exit
+pop_front!
+delete
+exit
+rbegin
+next
+previous
+previous0
+next
+exit
+erase 1 0
+back!
+begin
+next0
+previous
+next
+next0
+exit
+assign
+begin
+previous
+exit
+begin
+exit
+rend
+next
+exit
+assign
+erase 1 0
+front!
+begin
+next0
+next0
+previous
+next
+previous
+exit
+push_back 0
+delete
+exit
+pop_front!
+empty 1
+delete
+exit
+assign
+delete
+exit
+rbegin
+previous0
+exit
+push_back 0
+count 1 0
+begin
+next
+next0
+previous
+exit
+back 0
+empty 0
+assign
+end
+previous
+exit
+find 0
+previous
+exit
+delete
+exit
+back 0
+end
+exit
+rend
+next
+next
+previous
+next
+exit
+find 0
+previous
+exit
+rend
+next
+previous
+exit
+find 0
+next
+previous
+exit
+rend
+next
+previous
+next
+exit
+back 0
+find 0
+value 0
+previous
+next
+exit
+rbegin
+previous
+previous0
+next
+next
+next0
+previous
+value 0
+exit
+count 0 1
+pop_back
+rend
+next
+previous
+previous0
+next
+exit
+begin
+previous
+exit
+begin
+previous
+next
+next0
+exit
+push_front 0
+empty 0
+rend
+next
+exit
+erase 1 0
+end
+next0
+previous
+value 0
+value 0
+next
+previous
+previous
+next
+value 0
+value 0
+next
+exit
+end
+next0
+previous
+previous
+previous0
+next
+previous
+previous0
+exit
+size 1
+push_front 0
+pop_front
+// move
+delete
+exit
+erase 0 1
+push_front 1
+assign
+push_front 0
+assign
+pop_front
+delete
+exit
+delete
+exit
+front 1
+empty 0
+rend
+next
+exit
+rend
+next
+value 1
+previous
+exit
+// move
+erase 0 0
+count 1 1
+pop_front
+pop_back!
+empty 1
+empty 1
+push_front 0
+delete
+exit
+size 1
+find 1
+value 1
+next
+previous
+value 1
+previous
+next
+value 1
+exit
+count 0 0
+push_back 1
+back 1
+empty 0
+assign
+empty 0
+delete
+exit
+assign
+begin
+value 1
+next
+previous
+previous
+previous0
+next
+value 1
+next
+value 1
+value 1
+previous
+next
+next
+exit
+size 2
+delete
+exit
+pop_front
+size 1
+rend
+exit
+assign
+erase 0 0
+rbegin
+exit
+end
+previous
+exit
+push_front 0
+rend
+next
+exit
+pop_back
+end
+previous
+previous
+next
+previous
+next
+value 0
+previous
+next
+exit
+delete
+exit
+rend
+exit
+front 1
+empty 0
+push_front 0
+assign
+find 1
+next
+exit
+push_front 0
+back 1
+delete
+exit
+push_back 1
+empty 0
+size 3
+count 1 2
+push_front 0
+pop_back
+rbegin
+value 1
+next
+exit
+push_back 1
+pop_front
+front 0
+back 1
+end
+previous
+next
+exit
+rend
+next
+previous
+exit
+front 0
+pop_back
+// move
+back 1
+count 1 1
+delete
+exit
+pop_front
+begin
+previous
+next
+next
+next0
+previous
+next
+previous
+next
+exit
+rbegin
+next
+next0
+previous
+value 1
+next
+exit
+pop_back
+pop_back!
+push_back 1
+back 1
+begin
+next
+next0
+previous
+next
+previous
+previous
+next
+exit
+assign
+delete
+exit
+rend
+next
+exit
+end
+exit
+find 1
+value 1
+next
+exit
+push_back 0
+push_front 0
+erase 1 1
+push_back 0
+pop_front
+push_front 0
+rbegin
+exit
+erase 1 0
+size 3
+back 0
+front 0
+pop_front
+erase 1 0
+// move
+back 0
+push_front 0
+assign
+push_back 1
+back 1
+delete
+exit
+delete
+exit
+begin
+next
+exit
+push_back 0
+pop_back
+// move
+count 1 0
+begin
+exit
+back 0
+delete
+exit
+// move
+erase 0 2
+begin
+exit
+front!
+delete
+exit
+assign
+rend
+next
+previous
+previous0
+exit
+assign
+push_front 0
+rbegin
+value 0
+next
+previous
+exit
+delete
+exit
+front 0
+push_back 0
+begin
+exit
+push_front 0
+delete
+exit
+begin
+next
+value 0
+previous
+exit
+rbegin
+value 0
+next
+previous
+previous
+next
+exit
+pop_back
+begin
+previous
+exit
+size 1
+begin
+value 0
+next
+previous
+exit
+delete
+summary
+details
+exit
+
